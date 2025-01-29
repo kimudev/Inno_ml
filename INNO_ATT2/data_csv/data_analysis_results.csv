@@ -1,0 +1,14 @@
+column,type,missing_ratio,min,max,mean,median,variance,quantile_0.1,quantile_0.9,quartile_1,quartile_3,unique_values,mode
+customer_id,numeric,0.0,1.0,599.0,295.367,260.0,32784.370681681685,49.900000000000006,537.0,132.75,457.0,,
+active,numeric,0.0,0.0,1.0,0.98,1.0,0.019619619619619614,1.0,1.0,1.0,1.0,,
+amount,numeric,0.0,0.99,10.99,4.069000000000001,3.99,5.217976976976979,0.99,6.99,2.99,4.99,,
+film_id,numeric,0.0,1.0,1000.0,497.241,495.0,86331.83875775775,85.0,900.1,242.75,759.25,,
+rental_duration,numeric,0.0,3.0,7.0,4.972,5.0,1.9031191191191192,3.0,7.0,4.0,6.0,,
+replacement_cost,numeric,0.0,9.99,29.99,19.951,19.99,37.73921821821821,10.99,27.99,13.99,24.99,,
+store_id,numeric,0.0,1.0,2.0,1.522,2.0,0.24976576576576573,1.0,2.0,1.0,2.0,,
+first_name,categorical,0.0,,,,,,,,,,446.0,Marion
+last_name,categorical,0.0,,,,,,,,,,452.0,Cromwell
+email,categorical,0.0,,,,,,,,,,452.0,alex.gresham@sakilacustomer.org
+create_date,categorical,0.0,,,,,,,,,,1.0,2006-02-14
+title,categorical,0.0,,,,,,,,,,615.0,Fellowship Autumn
+rating,categorical,0.0,,,,,,,,,,5.0,PG-13
